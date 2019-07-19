@@ -1,9 +1,22 @@
 # Oakland University
-## CSI4900 - Computer Graphics Demos
+## CSI4900 - Computer Graphics
 
-This fork serves as a way for students to easily pull down the book demos and interact with them via GitHub Pages and CodePen.
+This page is intended to get you up and running with the WebGL examples from *Interactive Computer Graphics: A Top-Down Approach with WebGL - Edward Angel and Dave Shreiner, 7th edition*.
+
+[Book homepage](https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SEVENTH_EDITION/)
+
+## Environment setup
+
+All you need for this class is a text editor and a modern browser.  I will be using Vim and Firefox, however feel free to use whichever WebGL-enabled browser you wish.  If you are looking for a modern IDE that supports JavaScript, consider VSCode, JetBrains (should be free via student educational discount), or Brackets.
+
+### To run an example
+
+Create an HTML file.  Open it in your browser.  Done.  If you want others to be able to see what you've worked on, you'll need a webserver.  If you're in my class, you'll have a separate walkthrough of how to host your code on Google Cloud. 
+
+The links below serve as easy access to the demonstration examples from the book chapters.  New/custom examples are denoted by \*\*.
 
 - Chapter 1
+  - \*\* This is a demo
 
 - Chapter 2
   - [Gasket 1](Chap2/gasket1.html)
