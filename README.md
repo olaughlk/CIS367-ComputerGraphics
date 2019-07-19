@@ -91,9 +91,28 @@ This fork serves as a way for students to easily pull down the book demos and in
 
 - Chapter 9
 
+  - [Figure](Chap9/figure.html)
+  - [Robot Arm](Chap9/robotArm.html)
+
 - Chapter 10
 
+  - [Mandelbrot 1](Chap10/mandelbrot1.html)
+  - [Mandelbrot 2](Chap10/mandelbrot2.html)
+  - [Particle Diffusion 1](Chap10/particleDiffusion1.html)
+  - [Particle Diffusion 2](Chap10/particleDiffusion2.html)
+  - [Particle Diffusion 5](Chap10/particleDiffusion5.html)
+  - [Particle Diffusion 9](Chap10/particleDiffusion9.html)
+  - [Particle System](Chap10/particleSSystem.html)
+
 - Chapter 11
+
+  - [Teapot 1](Chap11/teapot1.html)
+  - [Teapot 2](Chap11/teapot2.html)
+  - [Teapot 3](Chap11/teapot3.html)
+  - [Teapot 4](Chap11/teapot4.html)
+  - [Teapot 5](Chap11/teapot5.html)
+  - [Teapot 6](Chap11/teapot6.html)
+  - [Teapot 7](Chap11/teapot7.html)
 
 ---
 
