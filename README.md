@@ -37,9 +37,9 @@ This fork serves as a way for students to easily pull down the book demos and in
 
   - [Hat](Chap5/hat.html)
   - [HatA](Chap5/hata.html)
-  - [Orthogonal](Chap5/orthogonal.html)
-  - [Orthogonal 1](Chap5/orthogonal1.html)
-  - [Orthogonal 2](Chap5/orthogonal2.html)
+  - [Orthogonal](Chap5/ortho.html)
+  - [Orthogonal 1](Chap5/ortho1.html)
+  - [Orthogonal 2](Chap5/ortho2.html)
   - [Perspective](Chap5/perspective.html)
   - [Perspective 1](Chap5/perspective1.html)
   - [Perspective 2](Chap5/perspective2.html)
