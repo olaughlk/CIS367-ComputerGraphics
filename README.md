@@ -84,7 +84,7 @@ This fork serves as a way for students to easily pull down the book demos and in
 - Chapter 8
 
 - Chapter 9
-  - [Figure](Chap9/figure.html)
+  - [!! Figure](Chap9/figure.html)
   - [Robot Arm](Chap9/robotArm.html)
 
 - Chapter 10
@@ -94,7 +94,7 @@ This fork serves as a way for students to easily pull down the book demos and in
   - [Particle Diffusion 2](Chap10/particleDiffusion2.html)
   - [Particle Diffusion 5](Chap10/particleDiffusion5.html)
   - [Particle Diffusion 9](Chap10/particleDiffusion9.html)
-  - [Particle System](Chap10/particleSSystem.html)
+  - [Particle System](Chap10/particleSystem.html)
 
 - Chapter 11
   - [Teapot 1](Chap11/teapot1.html)
