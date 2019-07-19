@@ -6,7 +6,6 @@ This fork serves as a way for students to easily pull down the book demos and in
 - Chapter 1
 
 - Chapter 2
-
   - [Gasket 1](Chap2/gasket1.html)
   - [Gasket 1v2](Chap2/gasket1v2.html)
   - [Gasket 2](Chap2/gasket2.html)
@@ -14,7 +13,6 @@ This fork serves as a way for students to easily pull down the book demos and in
   - [Gasket 4](Chap2/gasket4.html)
 
 - Chapter 3
-
   - [!! Triangle](Chap3/triangle.html)
   - [!! Square](Chap3/square.html)
   - [!! Square EM](Chap3/squareem.html)
@@ -26,7 +24,6 @@ This fork serves as a way for students to easily pull down the book demos and in
   - [Rotating Square 3](Chap3/rotatingSquare3.html)
 
 - Chapter 4
-
   - [Cube](Chap4/cube.html)
   - [Cube Q](Chap4/cubeq.html)
   - [Cube V](Chap4/cubev.html)
@@ -34,7 +31,6 @@ This fork serves as a way for students to easily pull down the book demos and in
   - [Trackball Quaternion](Chap4/trackballQuaterion.html)
 
 - Chapter 5
-
   - [Hat](Chap5/hat.html)
   - [HatA](Chap5/hata.html)
   - [Orthogonal](Chap5/ortho.html)
@@ -46,7 +42,6 @@ This fork serves as a way for students to easily pull down the book demos and in
   - [Shadow](Chap5/shadow.html)
 
 - Chapter 6
-
   - [Shaded Cube](Chap6/shadedCube.html)
   - [Wire Sphere](Chap6/wireSphere.html)
   - [Shaded Sphere 1](Chap6/shadedSphere1.html)
@@ -58,9 +53,8 @@ This fork serves as a way for students to easily pull down the book demos and in
 
 
 - Chapter 7
-
-  - [Bump Map ](Chap7/bumpMap.html)
-  - [Bump Map 2](Chap7/bumpMap2.html)
+  - [!! Bump Map ](Chap7/bumpMap.html)
+  - [!! Bump Map 2](Chap7/bumpMap2.html)
   - [Cube T](Chap7/cubet.html)
   - [Hat Image 1](Chap7/hatImage1.html)
   - [Hat Image 2](Chap7/hatImage2.html)
@@ -75,27 +69,25 @@ This fork serves as a way for students to easily pull down the book demos and in
   - [Reflecting Sphere](Chap7/reflectingSphere.html)
   - [Reflection Map 1](Chap7/reflectionMap.html)
   - [Reflection Map 2](Chap7/reflectionMap2.html)
-  - [Render 1](Chap7/render1.html)
-  - [Render 2](Chap7/render2.html)
-  - [Render 3](Chap7/render3.html)
-  - [Render 4](Chap7/render4.html)
-  - [Render 5](Chap7/render5.html)
+  - [!! Render 1](Chap7/render1.html)
+  - [!! Render 2](Chap7/render1v2.html)
+  - [!! Render 3](Chap7/render3.html)
+  - [!! Render 4](Chap7/render4.html)
+  - [!! Render 5](Chap7/render5.html)
   - [Textured Cube 1](Chap7/textureCube1.html)
-  - [Textured Cube 2](Chap7/textureCube2.html)
-  - [Textured Cube 3](Chap7/textureCube3.html)
-  - [Textured Cube 4](Chap7/textureCube4.html)
+  - [Textured Cube 2](Chap7/textureCubev2.html)
+  - [Textured Cube 3](Chap7/textureCubev3.html)
+  - [Textured Cube 4](Chap7/textureCubev4.html)
   - [Textured Square](Chap7/textureSquare.html)
 
 
 - Chapter 8
 
 - Chapter 9
-
   - [Figure](Chap9/figure.html)
   - [Robot Arm](Chap9/robotArm.html)
 
 - Chapter 10
-
   - [Mandelbrot 1](Chap10/mandelbrot1.html)
   - [Mandelbrot 2](Chap10/mandelbrot2.html)
   - [Particle Diffusion 1](Chap10/particleDiffusion1.html)
@@ -105,7 +97,6 @@ This fork serves as a way for students to easily pull down the book demos and in
   - [Particle System](Chap10/particleSSystem.html)
 
 - Chapter 11
-
   - [Teapot 1](Chap11/teapot1.html)
   - [Teapot 2](Chap11/teapot2.html)
   - [Teapot 3](Chap11/teapot3.html)
