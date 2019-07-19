@@ -1,4 +1,4 @@
-# Fork of INTERACTIVE COMPUTER GRAPHICS book materials for CSI4900 - Computer Graphics
+# CSI4900 - Computer Graphics Demos
 
 This fork serves as a way for students to easily pull down the book demos and interact with them via GitHub Pages and CodePen.
 
