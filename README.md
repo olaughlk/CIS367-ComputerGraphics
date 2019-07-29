@@ -16,6 +16,7 @@ Create an HTML file.  Open it in your browser.  Done.  If you want others to be 
 The links below serve as easy access to the demonstration examples from the book chapters.  New/custom examples are denoted by \*\*.
 
 - Chapter 1
+  - \*\* [Hello world (black box)](demos/hello-world.html)
   - \*\* This is a demo
 
 - Chapter 2
