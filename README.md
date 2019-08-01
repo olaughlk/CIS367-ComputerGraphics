@@ -17,6 +17,7 @@ The links below serve as easy access to the demonstration examples from the book
 
 - Chapter 1
   - \*\* [Hello world (black box)](demos/hello-world.html)
+  - \*\* [Hello world (triangle)](demos/triangle.html)
   - \*\* This is a demo
 
 - Chapter 2
