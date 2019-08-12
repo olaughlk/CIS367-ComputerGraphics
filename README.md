@@ -13,7 +13,7 @@ All you need for this class is a text editor and a modern browser.  I will be us
 
 Create an HTML file.  Open it in your browser.  Done.  If you want others to be able to see what you've worked on, you'll need a webserver.  If you're in my class, you'll have a separate walkthrough of how to host your code on Google Cloud. 
 
-The links below serve as easy access to the demonstration examples from the book chapters.  New/custom examples are denoted by \*\*.
+The links below serve as easy access to the demonstration examples from the book chapters.  New/custom examples are denoted by \*\*.  Note that, to view the code, all you have to do is `View Source` in your browser (note, you may need to follow the link to the JavaScript file in most cases).
 
 - Chapter 1
   - \*\* [Hello world (black box)](demos/hello-world.html)
