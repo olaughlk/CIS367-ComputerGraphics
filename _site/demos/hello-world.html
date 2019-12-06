@@ -1,0 +1,38 @@
+<!--
+Hello world for WebGL, provided by Mozilla:
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL
+-->
+
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>WebGL Demo - Hello World</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <canvas id="c" width="640" height="480"></canvas>
+</body>
+
+<script>
+main();
+
+function main() {
+  // Get canvas element
+  const canvas = document.querySelector("#c");
+  // Initialize GL context
+  const gl = canvas.getContext("webgl");
+
+  // Continue if WebGL is working/supported
+  if (gl === null) {
+    alert("WebGL cannot be initialized.");
+    return;
+  }
+
+  // Set clear color to black
+  gl.clearColor(0.0, 0.0, 0.0, 1.0);
+  // Clear color buffer with clearing color
+  gl.clear(gl.COLOR_BUFFER_BIT);
+}
+
+</script>
+</html>
