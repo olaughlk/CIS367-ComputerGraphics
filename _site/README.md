@@ -16,10 +16,9 @@ Create an HTML file.  Open it in your browser.  Done.  If you want others to be 
 The links below serve as easy access to the demonstration examples from the book chapters.  New/custom examples are denoted by \*\*.  Note that, to view the code, all you have to do is `View Source` in your browser (note, you may need to follow the link to the JavaScript file in most cases).
 
 - Chapter 1
-  - \*\* [Hello world (black box)](demos/hello-world.html)
-  - \*\* [Hello world (triangle)](demos/triangle.html)
-  - \*\* [Lecture Square (triangles)](demos/lecture-square.html)
-  - \*\* This is a demo
+  - \*\* [Hello world (black box)](demos/hello-world.html) \* \*
+  - \*\* [Hello world (triangle)](demos/triangle.html) \* \*
+  - \*\* [Lecture Square (triangles)](demos/lecture-square.html) \* \*
 
 - Chapter 2
   - [Gasket 1](Chap2/gasket1.html)
@@ -29,12 +28,12 @@ The links below serve as easy access to the demonstration examples from the book
   - [Gasket 4](Chap2/gasket4.html)
 
 - Chapter 3
-  - [!! Triangle](Chap3/triangle.html)
-  - [!! Square](Chap3/square.html)
-  - [!! Square EM](Chap3/squareem.html)
+  - [Triangle](Chap3/triangle.html)
+  - [Square](Chap3/square.html)
+  - [Square EM](Chap3/squarem.html)
   - [Gasket 5](Chap3/gasket5.html)
-  - [!! CAD1](Chap3/cad1.html)
-  - [!! CAD2](Chap3/cad2.html)
+  - [CAD1](Chap3/cad1.html)
+  - [CAD2](Chap3/cad2.html)
   - [Rotating Square 1](Chap3/rotatingSquare1.html)
   - [Rotating Square 2](Chap3/rotatingSquare2.html)
   - [Rotating Square 3](Chap3/rotatingSquare3.html)
