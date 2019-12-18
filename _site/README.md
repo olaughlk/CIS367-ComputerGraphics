@@ -122,14 +122,10 @@ The links below serve as easy access to the demonstration examples from the book
 
 ---
 
-#INTERACTIVE COMPUTER GRAPHICS
-##A TOP-DOWN APPROACH WITH SHADER-BASED OPENGL®
+# INTERACTIVE COMPUTER GRAPHICS
 
-###EDWARD ANGEL
-University of New Mexico
+## A TOP-DOWN APPROACH WITH SHADER-BASED OPENGL®
 
-
-###DAVE SHREINER
-ARM, Inc.
+### EDWARD ANGEL and DAVE SHREINER
 
 Here you have the examples of the book ordered by chapters.
