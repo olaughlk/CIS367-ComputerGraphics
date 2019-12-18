@@ -68,8 +68,8 @@ The links below serve as easy access to the demonstration examples from the book
 
 
 - Chapter 7
-  - [!! Bump Map ](Chap7/bumpMap.html)
-  - [!! Bump Map 2](Chap7/bumpMap2.html)
+  - [Bump Map ](Chap7/bumpMap.html)
+  - [Bump Map 2](Chap7/bumpMap2.html)
   - [Cube T](Chap7/cubet.html)
   - [Hat Image 1](Chap7/hatImage1.html)
   - [Hat Image 2](Chap7/hatImage2.html)
@@ -84,11 +84,11 @@ The links below serve as easy access to the demonstration examples from the book
   - [Reflecting Sphere](Chap7/reflectingSphere.html)
   - [Reflection Map 1](Chap7/reflectionMap.html)
   - [Reflection Map 2](Chap7/reflectionMap2.html)
-  - [!! Render 1](Chap7/render1.html)
-  - [!! Render 2](Chap7/render1v2.html)
-  - [!! Render 3](Chap7/render3.html)
-  - [!! Render 4](Chap7/render4.html)
-  - [!! Render 5](Chap7/render5.html)
+  - [Render 1](Chap7/render1.html)
+  - [Render 2](Chap7/render1v2.html)
+  - [Render 3](Chap7/render3.html)
+  - [Render 4](Chap7/render4.html)
+  - [Render 5](Chap7/render5.html)
   - [Textured Cube 1](Chap7/textureCube1.html)
   - [Textured Cube 2](Chap7/textureCubev2.html)
   - [Textured Cube 3](Chap7/textureCubev3.html)
@@ -99,7 +99,7 @@ The links below serve as easy access to the demonstration examples from the book
 - Chapter 8
 
 - Chapter 9
-  - [!! Figure](Chap9/figure.html)
+  - [Figure](Chap9/figure.html)
   - [Robot Arm](Chap9/robotArm.html)
 
 - Chapter 10
