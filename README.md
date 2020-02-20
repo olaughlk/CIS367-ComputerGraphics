@@ -15,6 +15,8 @@ Create an HTML file.  Open it in your browser.  Done.  If you want others to be 
 
 The links below serve as easy access to the demonstration examples from the book chapters.  New/custom examples are denoted by \*\*.  Note that, to view the code, all you have to do is `View Source` in your browser (note, you may need to follow the link to the JavaScript file in most cases).
 
+- Extra
+  - \*\* [Blender Mesh Loader](demos/obj-loader.html) \*\*
 - Chapter 1
   - \*\* [Hello world (black box)](demos/hello-world.html) \* \*
   - \*\* [Hello world (triangle)](demos/triangle.html) \* \*
