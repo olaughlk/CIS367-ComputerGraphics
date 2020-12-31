@@ -1,5 +1,5 @@
-# Oakland University
-## CSI4900 - Computer Graphics
+# Grand Valley State University
+## CIS367 - Computer Graphics
 
 This page is intended to get you up and running with the WebGL examples from *Interactive Computer Graphics: A Top-Down Approach with WebGL - Edward Angel and Dave Shreiner, 7th edition*.
 
